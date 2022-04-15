@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language>
+<LanguageDefault>true</LanguageDefault>
+<Language>Turkish</Language>
+<LanguageLocalTurkey</LanguageLocal>
+<LanguagePack>tr_TR</LanguagePack>
+<Author>ByBossX</Author>
+<Name>Turkish language pack</Name>
+<TemplateURL>https://github.com/ByBossX/lang-tr_TR/archive/refs/tags/unraid.zip</TemplateURL>
+<Icon>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/Green-Earth-Transparent-File.png</Icon>
+<Description>
+This is the built-in Turkish language pack for Unraid.
+</Description>
+</Language>
